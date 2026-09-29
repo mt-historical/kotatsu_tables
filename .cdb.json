@@ -1,0 +1,15 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Kotatsu Table",
+  "tags": ["decorative", "building"],
+  "type": "MOD",
+  "dev_state": "MAINTENANCE_ONLY",
+  "ai_disclosure": "NONE",
+  "license": "GPL-3.0-or-later",
+  "media_license": "CC-BY-SA-4.0",
+  "repo": "https://github.com/mt-historical/kotatsu_table",
+  "issue_tracker": "https://github.com/mt-historical/kotatsu_table/issues/new/choose/",
+  "translation_url": "https://translate.luanti.ch/engage/mt-mods/",
+	"forums": 22600,
+  "short_description": "Adds a new piece of furniture based on Japanese kotatsu tables."
+}
