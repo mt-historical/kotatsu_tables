@@ -9,7 +9,7 @@ See [API.md](/API.md) for a complete listing of all api's this mod provides.
 
 ## Dependencies
 
-- Luanti/Minetest v0.4.16
+- Luanti/Minetest v5.10
 - MTG provided mods `default` and `wool`
 
 ## Licensing
