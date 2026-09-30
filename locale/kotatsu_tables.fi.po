@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-29 16:23-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: init.lua:110
+msgid "@1 Blanket Side"
+msgstr ""
+
+#: init.lua:127
+msgid "@1 Blanket Corner"
+msgstr ""
+
+#: init.lua:193
+msgid "White"
+msgstr ""
+
+#: init.lua:194
+msgid "Grey"
+msgstr ""
+
+#: init.lua:195
+msgid "Black"
+msgstr ""
+
+#: init.lua:196
+msgid "Red"
+msgstr ""
+
+#: init.lua:197
+msgid "Yellow"
+msgstr ""
+
+#: init.lua:198
+msgid "Green"
+msgstr ""
+
+#: init.lua:199
+msgid "Cyan"
+msgstr ""
+
+#: init.lua:200
+msgid "Blue"
+msgstr ""
+
+#: init.lua:201
+msgid "Magenta"
+msgstr ""
+
+#: init.lua:202
+msgid "Orange"
+msgstr ""
+
+#: init.lua:203
+msgid "Violet"
+msgstr ""
+
+#: init.lua:204
+msgid "Brown"
+msgstr ""
+
+#: init.lua:205
+msgid "Pink"
+msgstr ""
+
+#: init.lua:206
+msgid "Dark Grey"
+msgstr ""
+
+#: init.lua:207
+msgid "Dark Green"
+msgstr ""
