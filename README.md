@@ -1,5 +1,9 @@
 # Kotatsu Table
 
+[![ContentDB](https://content.luanti.org/packages/mt-mods/kotatsu_table/shields/downloads/)](https://content.luanti.org/packages/mt-mods/kotatsu_table/)
+[![luacheck](https://github.com/mt-historical/kotatsu_tables/actions/workflows/luacheck.yml/badge.svg)](https://github.com/mt-historical/kotatsu_tables/actions/workflows/luacheck.yml)
+[![REUSE status](https://api.reuse.software/badge/github.com/mt-historical/kotatsu_tables)](https://api.reuse.software/info/github.com/mt-historical/kotatsu_tables)
+
 This mod adds kotatsu tables, as well as an API for other mods to register
 their own kotatsu tables in addition to the default wool ones.
 
